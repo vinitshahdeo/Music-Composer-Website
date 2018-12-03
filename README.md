@@ -1,6 +1,6 @@
 # Music Composer [Website](https://vinitshahdeo.github.io/Music-Composer-Website/)
 
-[![Freelance Work](https://img.shields.io/badge/Freelance-Work-green.svg)](https://vinitshahdeo.github.io/Music-Composer-Website/)
+[![Freelance Work](https://img.shields.io/badge/Freelance-Work-green.svg)](https://vinitshahdeo.github.io/Music-Composer-Website/) [![FrontEnd](https://img.shields.io/badge/FrontEnd-Development-lightgray.svg)](https://vinitshahdeo.github.io/Music-Composer-Website/)
 
 A single page website for an **Indian Music Composer** using **Bootstrap** framework.
 
