@@ -19,9 +19,14 @@ A single page website for an **Indian Music Composer** using **Bootstrap** frame
 
 - [Singh Tutorial](https://github.com/vinitshahdeo/coaching-website)
 
-> #### Made by [Vinit Shahdeo](http://vinitshahdeo.com/)
+
+
+
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Music-Composer-Website.svg?style=social)](https://github.com/vinitshahdeo/Music-Composer-Website/blob/master/LICENSE)
+
+
+> #### Made by [Vinit Shahdeo](http://vinitshahdeo.com/)
 
 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/Music-Composer-Website.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FMusic-Composer-Website)
